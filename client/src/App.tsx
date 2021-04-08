@@ -49,7 +49,7 @@ const App: React.FC<StateType> = ({initialized, initializeAppTC}) => {
                 <Route path='/newContact' exact component={NewContact}/>
                 <Route path='/show/:id?' exact component={ShowContainer}/>
                 <Route path='/edit/:id?' exact component={EditContainer}/>
-                <Route path='/*' render={() => <NotFound/>}/>
+                <Route path='/*' component={NotFound}/>
             </Switch>
             }
         </main>
