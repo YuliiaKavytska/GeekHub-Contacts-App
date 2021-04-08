@@ -1,0 +1,150 @@
+[
+  {
+    "id": 1,
+    "name": "Yuliia Kavytska",
+    "email": "julia.k106.l7@gmail.com",
+    "favorites": [
+      2,
+      4,
+      5
+    ],
+    "contacts": [
+      {
+        "id": 1,
+        "name": "Nastya Geiko",
+        "email": "lol@gmail.com",
+        "address": "Борщагівська 146",
+        "comment": "",
+        "phones": [
+          {
+            "id": 1,
+            "number": "0935951018"
+          },
+          {
+            "id": 2,
+            "number": "0505951018"
+          },
+          {
+            "id": 3,
+            "number": "0675951018"
+          }
+        ],
+        "avatar": "/IMG_3116.JPG"
+      },
+      {
+        "id": 2,
+        "name": "Arnold Schwarzenegger",
+        "email": "",
+        "address": "",
+        "comment": "",
+        "phones": [
+          {
+            "id": 1,
+            "number": "0930000000"
+          }
+        ],
+        "avatar": "/f6041443cc19548adf53aa0744500eda__1440x.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Misha",
+        "email": "",
+        "address": "",
+        "comment": "",
+        "phones": [
+          {
+            "id": 1,
+            "number": "+380670000000"
+          }
+        ],
+        "avatar": "/thumbnail_blob1.58800515.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Dad",
+        "email": "Sasha1234@gmail.com",
+        "address": "Cherkassy",
+        "comment": "",
+        "phones": [
+          {
+            "id": 1,
+            "number": "+380500000000"
+          }
+        ],
+        "avatar": "/photo_2020-11-01_13-29-43.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Sergii Kliuchnyk",
+        "avatar": "",
+        "email": "",
+        "address": "",
+        "comment": "GeekHub",
+        "phones": [
+          {
+            "id": 1,
+            "number": "0930000000"
+          },
+          {
+            "id": 2,
+            "number": "0680000000"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Donald Trump",
+        "email": "donald@gmail.com",
+        "address": "USA",
+        "comment": "",
+        "phones": [
+          {
+            "id": 1,
+            "number": "0990000000"
+          }
+        ],
+        "avatar": "/1200px-Donald_Trump_official_portrait.jpg"
+      }
+    ],
+    "password": "$2b$10$YdNAIa3zSJHDg87V8OrF.eXG8gylBvfT37FuRk5lsdtw3ibiBAo/y"
+  },
+  {
+    "id": 2,
+    "name": "Sergii Kliuchnyk",
+    "email": "Sergii@gmail.com",
+    "favorites": [
+      2
+    ],
+    "contacts": [
+      {
+        "id": 1,
+        "name": "Qwerty",
+        "avatar": "",
+        "email": "",
+        "address": "",
+        "comment": "",
+        "phones": [
+          {
+            "id": 1,
+            "number": "0930000000"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Asdf",
+        "email": "",
+        "address": "Борщагівська 146",
+        "comment": "",
+        "phones": [
+          {
+            "id": 1,
+            "number": "0500000000"
+          }
+        ],
+        "avatar": "/macbook_1516098717.jpg"
+      }
+    ],
+    "password": "$2b$10$VLN2j3yduxilWxpGhTbCq.MUMU.10tFz9BBsLB1irrXkl.HRxY8IS"
+  }
+]
